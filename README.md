@@ -1,1 +1,17 @@
 # music_player
+LANGUAGE : C++
+METHOD USED IN PROJECT : CIRCULAR DOUBLY LINKED LIST
+this project is about simple music player
+
+OPERATION : 
+  1. ADD SONGS IN PLAYLIST
+  2. REMOVE SONGS IN PLAYLIST
+  3. VIEW ALL SONGS IN PLAYLIST
+  4. PLAY NEXT SONG
+  5. PLAY PREVIOUS SONG
+  6. PLAY FIRST SONG IN PLAYLIST
+  7. PLAY LAST SONG IN PLAYLIST
+
+
+![MUSICPLAYER-PROJECT1](https://github.com/sivarajraja/music_player/assets/114579882/56a41690-4278-4b7d-adc6-7d5e5e20e858)
+![MUSICPLAYER-PROJECT](https://github.com/sivarajraja/music_player/assets/114579882/705b1dbb-e720-41d2-a5bf-d3475ef93696)
